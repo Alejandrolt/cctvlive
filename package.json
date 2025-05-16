@@ -6,7 +6,7 @@
   "homepage": "https://alejandrolt.github.io/pgcam/",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "npx vite build",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
