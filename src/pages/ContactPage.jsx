@@ -19,7 +19,7 @@ const ContactPage = () => {
 
   const contactInfo = [
     { icon: Phone, text: "+57 3117439052", href: "tel:+57 3117439052" },
-    { icon: Mail, text: "info@segurcam.com", href: "mailto:info@segurcam.com" },
+    { icon: Mail, text: "info@CctvLive.com", href: "mailto:info@CctvLive.com" },
     {
       icon: MapPin,
       text: "Cra 5 # 16-17, Pereira, Colombia",

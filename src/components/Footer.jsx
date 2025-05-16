@@ -15,7 +15,7 @@ const Footer = () => {
       <div className="container mx-auto px-4 py-12">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           <div>
-            <h3 className="text-xl font-bold mb-4">SegurCam</h3>
+            <h3 className="text-xl font-bold mb-4">CctvLive</h3>
             <p className="text-gray-300 mb-4">
               Soluciones profesionales de seguridad con cámaras de vigilancia de
               alta calidad e instalación garantizada.
@@ -103,7 +103,7 @@ const Footer = () => {
               </li>
               <li className="flex items-center">
                 <Mail className="mr-2 h-5 w-5 text-primary" />
-                <span className="text-gray-300">info@segurcam.com</span>
+                <span className="text-gray-300">info@CctvLive.com</span>
               </li>
             </ul>
           </div>
@@ -111,7 +111,7 @@ const Footer = () => {
 
         <div className="border-t border-gray-800 mt-10 pt-6 text-center text-gray-400">
           <p>
-            &copy; {new Date().getFullYear()} SegurCam. Todos los derechos
+            &copy; {new Date().getFullYear()} CctvLive. Todos los derechos
             reservados.
           </p>
         </div>
