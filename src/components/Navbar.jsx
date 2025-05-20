@@ -99,7 +99,7 @@ const Navbar = () => {
                     {totalItems}
                   </span>
                 )}
-              </Button>
+              </Button>*/}
               <Button
                 variant="ghost"
                 size="icon"
@@ -111,7 +111,7 @@ const Navbar = () => {
                 ) : (
                   <Menu className="h-6 w-6" />
                 )}
-              </Button>*/}
+              </Button>
             </div>
           </div>
         </div>
